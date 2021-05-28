@@ -1,4 +1,4 @@
-# Playing with Panda and Kaggle dataset
+# Playing with Kaggle dataset
 
 1. Using Kaggle API to directly load dataset to google colaboratory
 2. Using pandas dataframe to load our dataset
